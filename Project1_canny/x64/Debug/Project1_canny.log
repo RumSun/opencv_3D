@@ -1,0 +1,28 @@
+﻿  CannyStill1.cpp
+c:\rso\work_5d\projects_2019-07-26\projects\opencv\project1_canny\project1_canny\cannystill1.cpp(144): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\rso\work_5d\projects_2019-07-26\projects\opencv\project1_canny\project1_canny\cannystill1.cpp(151): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\rso\work_5d\projects_2019-07-26\projects\opencv\project1_canny\project1_canny\cannystill1.cpp(234): warning C4129: p: неизвестная escape-последовательность
+c:\rso\work_5d\projects_2019-07-26\projects\opencv\project1_canny\project1_canny\cannystill1.cpp(318): warning C4244: =: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=uchar
+          ]
+c:\rso\work_5d\projects_2019-07-26\projects\opencv\project1_canny\project1_canny\cannystill1.cpp(319): warning C4244: =: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=uchar
+          ]
+c:\rso\work_5d\projects_2019-07-26\projects\opencv\project1_canny\project1_canny\cannystill1.cpp(320): warning C4244: =: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=uchar
+          ]
+  Serial.cpp
+  SerialUtil.cpp
+  Создание кода...
+c:\opencv\opencv\build\include\opencv2\core\fast_math.hpp(318): warning C4793: `anonymous namespace'::cvRound: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+c:\opencv\opencv\build\include\opencv2\core\fast_math.hpp(319): warning C4793: `anonymous namespace'::cvRound: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+  Project1_canny.vcxproj -> C:\RSO\WORK_5D\projects_2019-07-26\projects\opencv\Project1_canny\x64\Debug\Project1_canny.exe
